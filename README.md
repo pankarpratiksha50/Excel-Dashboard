@@ -7,7 +7,7 @@ To analyze and visualize road accident data from 2021 and 2022 in a meaningful w
 
 
 # 📂 Dataset Used
-🔗 Click to View Dataset (Google Sheets)
+🔗 <a href="https://docs.google.com/spreadsheets/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/edit?gid=1319047066#gid=1319047066">Dataset<a>
 
 
 # 📌 Key Insights & KPIs
@@ -26,7 +26,7 @@ To analyze and visualize road accident data from 2021 and 2022 in a meaningful w
 
 
 # 📊 Dashboard Preview
-🖼️ View the Dashboard Image
+🖼️ <a href="https://github.com/pankarpratiksha50/Excel-Dashboard/blob/main/road%20accident%20dashboard.png ">View Dataset <a>
 
 
 # 🛠 Tools & Techniques
