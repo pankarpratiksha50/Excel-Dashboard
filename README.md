@@ -16,39 +16,39 @@ To analyze and visualize road accident data from 2021 and 2022 in a meaningful w
 
 2️⃣ Casualty % by Severity and Maximum Casualties by Vehicle Type
 
-3️⃣ 📅 Monthly Trend Analysis – Comparison of 2021 vs 2022 casualties
+3️⃣ Monthly Trend Analysis – Comparison of 2021 vs 2022 casualties
 
-4️⃣ 🛣️ Road Type with Maximum Casualties
+4️⃣ Road Type with Maximum Casualties
 
-5️⃣ 🚧 Distribution by Road Surface Conditions
+5️⃣ Distribution by Road Surface Conditions
 
-6️⃣ 🌆🌃 Relation between Casualties by Area (Urban/Rural) and Day/Night
+6️⃣ Relation between Casualties by Area (Urban/Rural) and Day/Night
 
 
 # 📊 Dashboard Preview
-🖼️ <a href="https://github.com/pankarpratiksha50/Excel-Dashboard/blob/main/road%20accident%20dashboard.png ">View Dataset <a>
+    <a href="https://github.com/pankarpratiksha50/Excel-Dashboard/blob/main/road%20accident%20dashboard.png ">View Dataset <a>
 
 
 # 🛠 Tools & Techniques
-Microsoft Excel 🧮
+Microsoft Excel 
 
-Pivot Tables & Charts 📈
+Pivot Tables & Charts 
 
-Data Cleaning & Transformation 🧹
+Data Cleaning & Transformation 
 
-Slicers & Conditional Formatting 🎨
+Slicers & Conditional Formatting 
 
 
 # ✅ Outcome / Impact
-🚦 The dashboard enabled the client to:
+  The dashboard enabled the client to:
 
-📍 Identify high-risk roads, vehicle types, and conditions contributing to accidents
+  Identify high-risk roads, vehicle types, and conditions contributing to accidents
 
-🔍 Monitor casualty trends over time and plan safety initiatives
+  Monitor casualty trends over time and plan safety initiatives
 
-🕵️‍♂️ Understand environmental and temporal factors (like road surface, day/night, urban/rural)
+  Understand environmental and temporal factors (like road surface, day/night, urban/rural)
 
-🚨 Make data-driven decisions to improve road safety policies and allocate resources efficiently
+  Make data-driven decisions to improve road safety policies and allocate resources efficiently
 
 
 
