@@ -28,7 +28,8 @@ To analyze and visualize road accident data from 2021 and 2022 in a meaningful w
 
 # 📊 Dashboard Preview
 
-    <img src="https://github.com/pankarpratiksha50/Excel-Dashboard/blob/main/road%20accident%20dashboard.png">
+  <img src="https://raw.githubusercontent.com/pankarpratiksha50/Excel-Dashboard/main/road%20accident%20dashboard.png" alt="Road Accident Dashboard" width="600">
+
 
 
 # 🛠 Tools & Techniques
