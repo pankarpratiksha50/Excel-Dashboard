@@ -13,17 +13,17 @@ To analyze and visualize road accident data from 2021 and 2022 in a meaningful w
 
 #  Key Insights & KPIs
 
-1️⃣ Total Casualties recorded after accidents
+    Total Casualties recorded after accidents
 
-2️⃣ Casualty % by Severity and Maximum Casualties by Vehicle Type
+   Casualty % by Severity and Maximum Casualties by Vehicle Type
 
-3️⃣ Monthly Trend Analysis – Comparison of 2021 vs 2022 casualties
+   Monthly Trend Analysis – Comparison of 2021 vs 2022 casualties
 
-4️⃣ Road Type with Maximum Casualties
+   Road Type with Maximum Casualties
 
-5️⃣ Distribution by Road Surface Conditions
+   Distribution by Road Surface Conditions
 
-6️⃣ Relation between Casualties by Area (Urban/Rural) and Day/Night
+   Relation between Casualties by Area (Urban/Rural) and Day/Night
 
 
 #  Dashboard Preview
